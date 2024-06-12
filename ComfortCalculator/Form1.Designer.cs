@@ -86,7 +86,7 @@
             // 
             lblCrimeIndex.AutoSize = true;
             lblCrimeIndex.Font = new Font("Consolas", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblCrimeIndex.Location = new Point(1180, 218);
+            lblCrimeIndex.Location = new Point(1192, 211);
             lblCrimeIndex.Name = "lblCrimeIndex";
             lblCrimeIndex.Size = new Size(166, 24);
             lblCrimeIndex.TabIndex = 3;
@@ -97,7 +97,7 @@
             // 
             lblFreedomIndex.AutoSize = true;
             lblFreedomIndex.Font = new Font("Consolas", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblFreedomIndex.Location = new Point(1174, 355);
+            lblFreedomIndex.Location = new Point(1177, 321);
             lblFreedomIndex.Name = "lblFreedomIndex";
             lblFreedomIndex.Size = new Size(190, 24);
             lblFreedomIndex.TabIndex = 4;
@@ -127,7 +127,7 @@
             // 
             lblCrimeIndexNum.AutoSize = true;
             lblCrimeIndexNum.Font = new Font("Consolas", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblCrimeIndexNum.Location = new Point(1235, 270);
+            lblCrimeIndexNum.Location = new Point(1235, 260);
             lblCrimeIndexNum.Name = "lblCrimeIndexNum";
             lblCrimeIndexNum.Size = new Size(51, 28);
             lblCrimeIndexNum.TabIndex = 7;
@@ -137,7 +137,7 @@
             // 
             lblFreedomIndexNum.AutoSize = true;
             lblFreedomIndexNum.Font = new Font("Consolas", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblFreedomIndexNum.Location = new Point(1235, 414);
+            lblFreedomIndexNum.Location = new Point(1236, 362);
             lblFreedomIndexNum.Name = "lblFreedomIndexNum";
             lblFreedomIndexNum.Size = new Size(51, 28);
             lblFreedomIndexNum.TabIndex = 8;
@@ -235,7 +235,7 @@
             // 
             lblCountryName.Font = new Font("Consolas", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lblCountryName.ImageAlign = ContentAlignment.TopLeft;
-            lblCountryName.Location = new Point(1144, 59);
+            lblCountryName.Location = new Point(1140, 59);
             lblCountryName.Name = "lblCountryName";
             lblCountryName.Size = new Size(250, 28);
             lblCountryName.TabIndex = 16;
